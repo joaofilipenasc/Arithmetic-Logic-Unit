@@ -3839,7 +3839,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(570,300)" to="(620,300)"/>
     <wire from="(630,280)" to="(820,280)"/>
     <wire from="(520,20)" to="(700,20)"/>
-    <wire from="(100,30)" to="(100,40)"/>
     <wire from="(1090,270)" to="(1090,490)"/>
     <wire from="(220,390)" to="(270,390)"/>
     <wire from="(500,310)" to="(500,330)"/>
